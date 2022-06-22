@@ -6,26 +6,26 @@ estudando pela plataforma da Danki Code, e a seguir listarei algun projetos que 
      
 - 👀 PROJETOS:
 
-Aplicativo Calculadora desenvolvio com React.js, React Native;
-link: https://gabrielpossasb.github.io/Calculadora/
+- Aplicativo Calculadora desenvolvio com React.js, React Native;
+- link: https://gabrielpossasb.github.io/Calculadora/
 
-Aplicativo Calculadora desenvolvio com React.js, React Native;
-link: https://gabrielpossasb.github.io/Calculadora/
+- Aplicativo Calculadora desenvolvio com React.js, React Native;
+- link: https://gabrielpossasb.github.io/Calculadora/
 
-Portal de Notícias desenvolvido com React.js, React Native, Firestore-Firebase;
-link: https://gabrielpossasb.github.io/Portal-Noticias/
+- Portal de Notícias desenvolvido com React.js, React Native, Firestore-Firebase;
+- link: https://gabrielpossasb.github.io/Portal-Noticias/
 
-Aplicativo Timer desenvolvio com React.js, React Native;
-link: https://gabrielpossasb.github.io/Timer/
+- Aplicativo Timer desenvolvio com React.js, React Native;
+- link: https://gabrielpossasb.github.io/Timer/
 
-Player de Musica desenvolvido com React.js, React Native;
-link: https://gabrielpossasb.github.io/Player-Music/
+- Player de Musica desenvolvido com React.js, React Native;
+- link: https://gabrielpossasb.github.io/Player-Music/
 
-Aplicativo Calculadora desenvolvio com React.js, React Native;
-link: https://gabrielpossasb.github.io/Tarefas/
+- Aplicativo Calculadora desenvolvio com React.js, React Native;
+- link: https://gabrielpossasb.github.io/Tarefas/
 
-Meu portfólio -imcompleto- desenvolvido React.js, React Navigation, React Native, Firestore-Firebase;
-link: https://gabrielpossasb.github.io/Portifolio/
+- Meu portfólio -imcompleto- desenvolvido React.js, React Navigation, React Native, Firestore-Firebase;
+- link: https://gabrielpossasb.github.io/Portifolio/
 
 
 - 📫 CONTATO:
