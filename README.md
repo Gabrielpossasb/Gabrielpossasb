@@ -9,9 +9,6 @@ estudando pela plataforma da Danki Code, e a seguir listarei algun projetos que 
 - Aplicativo Calculadora desenvolvio com React.js, React Native;
 - link: https://gabrielpossasb.github.io/Calculadora/
 
-- Aplicativo Calculadora desenvolvio com React.js, React Native;
-- link: https://gabrielpossasb.github.io/Calculadora/
-
 - Portal de Notícias desenvolvido com React.js, React Native, Firestore-Firebase;
 - link: https://gabrielpossasb.github.io/Portal-Noticias/
 
