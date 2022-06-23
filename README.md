@@ -1,8 +1,13 @@
 - 👋 
 - Ola, me chamo Gabriel Abraão, tenho 18 anos, moro em Campo Grande-MS. Conclui o ensino médio em 2021 e agora pretendo 
 trabalhar como desenvolvedor começando pelo front-end e futuramente desenvolvendo aplicativos mobile. Atualmente estou 
-estudando pela plataforma da Danki Code, e a seguir listarei algun projetos que realizei:
-     
+estudando pela plataforma da Danki Code, e a seguir listarei alguns projetos que realizei:
+ 
+ @@@ Ola, me chamo Gabriel Abraão
+ 
+ <div>
+     <text>Conclui o ensino médio em 2021 e agora pretendo trabalhar como desenvolvedor começando pelo front-end e futuramente desenvolvendo aplicativos mobile. Atualmente estou estudando pela plataforma da Danki Code, e a seguir listarei alguns projetos que realizei:</text>
+ </div>
      
 - 👀 PROJETOS:
 
