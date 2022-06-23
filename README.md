@@ -28,3 +28,4 @@ estudando pela plataforma da Danki Code, e a seguir listarei algun projetos que 
 - 📫 CONTATO:
 - Cel: 67 9 9935-9933
 - Email: gabrielpossasb@gmail.com
+- Linkedin: www.linkedin.com/in/gabriel-borges-p
