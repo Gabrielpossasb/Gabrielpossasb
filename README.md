@@ -7,7 +7,7 @@
  
 ## 👀 PROJETOS: 
 
-   Aplicativo Calculadora desenvolvio com React.js, React Native --> [<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://gabrielpossasb.github.io/Calculadora/)
+   Aplicativo Calculadora desenvolvio com React.js, React Native --> [:open_file_folder:](https://gabrielpossasb.github.io/Calculadora/)
 
   Portal de Notícias desenvolvido com React.js, React Native, Firestore-Firebase --> https://gabrielpossasb.github.io/Portal-Noticias/
 
