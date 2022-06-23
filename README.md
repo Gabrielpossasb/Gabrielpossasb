@@ -1,15 +1,15 @@
 ### 👋 Olá, me chamo Gabriel Abraão
  
- Conclui o ensino médio em 2021 e agora pretendo trabalhar como desenvolvedor começando com front-end e futuramente desenvolvendo aplicativos mobile.
+   Conclui o ensino médio em 2021 e agora pretendo trabalhar como desenvolvedor começando com front-end e futuramente desenvolvendo aplicativos mobile.
  
- Atualmente estudo pela plataforma Danki Code, realizei algumas aplicações mobile utilizando React.js e React Native, e agora estou aprimorando meus conhecimentos em aplicações web utilzando React e HTML e a seguir listarei alguns projetos que realizei:
+   Atualmente estudo pela plataforma Danki Code, realizei algumas aplicações mobile utilizando React.js e React Native, e agora estou aprimorando meus conhecimentos    em aplicações web utilzando React e HTML e a seguir listarei alguns projetos que realizei:
 
  
-<h3> :file_folder:&nbsp;PROJETOS: </h3>
+ <h3> :file_folder:&nbsp;PROJETOS: </h3>
 
    Aplicativo Calculadora desenvolvio com React.js, React Native - [OPEN](https://gabrielpossasb.github.io/Calculadora/) -
 
-  Portal de Notícias desenvolvido com React.js, React Native, Firestore-Firebase - [OPEN](https://gabrielpossasb.github.io/Portal-Noticias/) - 
+   Portal de Notícias desenvolvido com React.js, React Native, Firestore-Firebase - [OPEN](https://gabrielpossasb.github.io/Portal-Noticias/) - 
 
    Aplicativo Timer desenvolvio com React.js, React Native - [OPEN](https://gabrielpossasb.github.io/Timer/) - 
  
@@ -21,6 +21,7 @@
 
 
 ### CONTATO:
-:telephone_receiver: :  (67) 9 9935-9933<br>
-Email: gabrielpossasb@gmail.com<br>
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-borges-p)](https://www.linkedin.com/in/gabriel-borges-p)
+   :telephone_receiver: :  (67) 9 9935-9933<br>
+   :email: : **gabrielpossasb@gmail.com** <br>
+   <br>
+<img height="30em" src="https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-borges-p"/>
