@@ -1,29 +1,23 @@
 ### Olá, me chamo Gabriel Abraão
  
- <div>
-     <text>Conclui o ensino médio em 2021 e agora pretendo trabalhar como desenvolvedor começando com front-end e futuramente desenvolvendo aplicativos mobile.</text> 
-     <p>A  tualmente estudo pela plataforma Danki Code, realizei algumas aplicações mobile utilizando React.js e React Native, e agora estou aprimorando meus conhecimentos em aplicações web utilzando React e HTML e a seguir listarei alguns projetos que realizei:</p>
- </div>
-     
-- 👀 PROJETOS:
+ Conclui o ensino médio em 2021 e agora pretendo trabalhar como desenvolvedor começando com front-end e futuramente desenvolvendo aplicativos mobile.
+ 
+ Atualmente estudo pela plataforma Danki Code, realizei algumas aplicações mobile utilizando React.js e React Native, e agora estou aprimorando meus conhecimentos em aplicações web utilzando React e HTML e a seguir listarei alguns projetos que realizei:
 
-- Aplicativo Calculadora desenvolvio com React.js, React Native;
-- link: https://gabrielpossasb.github.io/Calculadora/
+ 
+## 👀 PROJETOS: 
 
-- Portal de Notícias desenvolvido com React.js, React Native, Firestore-Firebase;
-- link: https://gabrielpossasb.github.io/Portal-Noticias/
+   Aplicativo Calculadora desenvolvio com React.js, React Native --> [<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://gabrielpossasb.github.io/Calculadora/)
 
-- Aplicativo Timer desenvolvio com React.js, React Native;
-- link: https://gabrielpossasb.github.io/Timer/
+  Portal de Notícias desenvolvido com React.js, React Native, Firestore-Firebase --> https://gabrielpossasb.github.io/Portal-Noticias/
 
-- Player de Musica desenvolvido com React.js, React Native;
-- link: https://gabrielpossasb.github.io/Player-Music/
+   Aplicativo Timer desenvolvio com React.js, React Native --> https://gabrielpossasb.github.io/Timer/
+ 
+   Player de Musica desenvolvido com React.js, React Native --> https://gabrielpossasb.github.io/Player-Music/
 
-- Aplicativo Calculadora desenvolvio com React.js, React Native;
-- link: https://gabrielpossasb.github.io/Tarefas/
+   Aplicativo Calculadora desenvolvio com React.js, React Native --> https://gabrielpossasb.github.io/Tarefas/
 
-- Meu portfólio -imcompleto- desenvolvido React.js, React Navigation, React Native, Firestore-Firebase;
-- link: https://gabrielpossasb.github.io/Portifolio/
+   Meu portfólio -imcompleto- desenvolvido com React.js, React Navigation, React Native, Firestore-Firebase --> https://gabrielpossasb.github.io/Portifolio/
 
 
 - 📫 CONTATO:
