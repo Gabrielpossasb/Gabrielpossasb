@@ -3,7 +3,7 @@
 trabalhar como desenvolvedor começando pelo front-end e futuramente desenvolvendo aplicativos mobile. Atualmente estou 
 estudando pela plataforma da Danki Code, e a seguir listarei alguns projetos que realizei:
  
- @@@ Ola, me chamo Gabriel Abraão
+ ### Ola, me chamo Gabriel Abraão
  
  <div>
      <text>Conclui o ensino médio em 2021 e agora pretendo trabalhar como desenvolvedor começando pelo front-end e futuramente desenvolvendo aplicativos mobile. Atualmente estou estudando pela plataforma da Danki Code, e a seguir listarei alguns projetos que realizei:</text>
