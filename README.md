@@ -1,11 +1,11 @@
 
   <h3>👋 &nbsp;Olá, me chamo Gabriel Abraão</h3>
-  Conclui o ensino médio em 2021 e agora pretendo trabalhar como desenvolvedor começando com front-end e futuramente desenvolvendo aplicativos mobile.
+  Conclui o ensino médio em 2021 e tenho como objetivo seguir na área de progamção que é minha paixão, pretendo trabalhar como Dev. Front-End e futuramente no desenvolvimento de Aplicativos Mobile.
   
 ##
 
   <h3>:books: &nbsp;Estudos</h3>
-   Atualmente estudo pela plataforma Danki Code, realizei algumas aplicações mobile utilizando React.js e React Native, e agora estou aprimorando meus conhecimentos    em aplicações web utilzando React e HTML.
+   Atualmente estudo pela plataforma Danki Code, com os cursos de front-end e dev. mobile, até o momento realizei algumas aplicações nativas mobile utilizando React.js e React Native, e agora estou aprimorando meus conhecimentos para Web desenvolvendo com Ract e HTML.
 
 ##
 <h3> :rocket: &nbsp;Minhas Skills </h3>
