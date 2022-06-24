@@ -5,7 +5,7 @@
 ##
 
   <h3>:books: &nbsp;Estudos</h3>
-   Atualmente estudo pela plataforma Danki Code, com os cursos de front-end e dev. mobile, até o momento realizei algumas aplicações nativas mobile utilizando React.js e React Native, e agora estou aprimorando meus conhecimentos para Web desenvolvendo com Ract e HTML.
+   Atualmente estudo pela plataforma Danki Code, com os cursos de front-end e dev. mobile, até o momento realizei algumas aplicações nativas mobile utilizando React.js e React Native, e agora estou aprimorando meus conhecimentos para Web desenvolvendo com React e HTML.
 
 ##
 <h3> :rocket: &nbsp;Minhas Skills </h3>
