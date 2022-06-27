@@ -21,17 +21,17 @@
   
   :heavy_minus_sign: **Ignite Lab Event**(Rocketseat)- desenvolvido com React, TypeScript, HTML, Apollo, TailwindCSS, Graphql e GraphCMS -> [:file_folder:](http://plataforma-aulas-rocketseat.vercel.app/) 
 
-  :heavy_minus_sign: **Portal de Notícias-** desenvolvido com React, React Native, Firestore-Firebase -> [:file_folder:](https://gabrielpossasb.github.io/Portal-Noticias/)
+  :heavy_minus_sign: **Portal de Notícias-** desenvolvido com React, React Native, CSS, Firestore-Firebase -> [:file_folder:](https://gabrielpossasb.github.io/Portal-Noticias/)
 
-  :heavy_minus_sign: **Calculadora-** desenvolvio com React, React Native -> [:file_folder:](https://gabrielpossasb.github.io/Calculadora/) 
+  :heavy_minus_sign: **Calculadora-** desenvolvio com React, React Native, CSS -> [:file_folder:](https://gabrielpossasb.github.io/Calculadora/) 
 
-  :heavy_minus_sign: **Timer-** desenvolvio com React, React Native -> [:file_folder:](https://gabrielpossasb.github.io/Timer/) 
+  :heavy_minus_sign: **Timer-** desenvolvio com React, React Native, CSS -> [:file_folder:](https://gabrielpossasb.github.io/Timer/) 
  
-  :heavy_minus_sign: **Player de Musica-** desenvolvido com React, React Native -> [:file_folder:](https://gabrielpossasb.github.io/Player-Music/) 
+  :heavy_minus_sign: **Player de Musica-** desenvolvido com React, React Native, CSS -> [:file_folder:](https://gabrielpossasb.github.io/Player-Music/) 
 
-  :heavy_minus_sign: **Lista de Tarefas-** desenvolvio com React, React Native -> [:file_folder:](https://gabrielpossasb.github.io/Tarefas/) 
+  :heavy_minus_sign: **Lista de Tarefas-** desenvolvio com React, React Native, CSS -> [:file_folder:](https://gabrielpossasb.github.io/Tarefas/) 
 
-  :heavy_minus_sign: **Portfólio-** (Imcompleto) desenvolvido com React, React Navigation, React Native, Firestore-Firebase -> [:file_folder:](https://gabrielpossasb.github.io/Portifolio/) 
+  :heavy_minus_sign: **Portfólio-** (Imcompleto) desenvolvido com React, React Navigation, React Native, CSS, Firestore-Firebase -> [:file_folder:](https://gabrielpossasb.github.io/Portifolio/) 
 
 ##
    
