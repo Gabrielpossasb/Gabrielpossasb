@@ -18,10 +18,12 @@
  
  ##
  <h3> :file_folder: &nbsp;Projetos: </h3>
+  
+  **Portal de Notícias-** desenvolvido com React, React Native, Firestore-Firebase -> [:file_folder:](http://plataforma-aulas-rocketseat.vercel.app/) <-
+
+  **Portal de Notícias-** desenvolvido com React, React Native, Firestore-Firebase -> [OPEN](https://gabrielpossasb.github.io/Portal-Noticias/) <-
 
   **Calculadora-** desenvolvio com React, React Native -> [OPEN](https://gabrielpossasb.github.io/Calculadora/) <-
-
-  **Portal de Notícias-** desenvolvido com React, React Native, Firestore-Firebase -> [OPEN](https://gabrielpossasb.github.io/Portal-Noticias/) <- 
 
    **Timer-** desenvolvio com React, React Native -> [OPEN](https://gabrielpossasb.github.io/Timer/) <- 
  
