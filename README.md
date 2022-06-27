@@ -1,6 +1,6 @@
 
   <h3>👋 &nbsp;Olá, me chamo Gabriel Borges, Dev. Front-End(Junior)</h3>
-  Tenho 18 anos, sou de Campo Grande (MS), conclui o ensino médio em 2021 e tenho agora como objetivo seguir na área de progamção que é minha paixão, pretendo trabalhar como Dev. Front-End e futuramente no desenvolvimento de Aplicativos Mobile.
+  Tenho 18 anos, sou de Campo Grande (MS), conclui o ensino médio em 2021 e tenho agora como objetivo seguir na área de progamção que é minha paixão, pretendo trabalhar como Dev. Front-End e futuramente com FullStack.
   
 ##
 
