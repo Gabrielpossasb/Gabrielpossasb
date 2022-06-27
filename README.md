@@ -17,21 +17,21 @@
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
  
  ##
- <h3> :file_folder: &nbsp;Projetos: </h3>
+ <h3> :rocket: &nbsp;Projetos: </h3>
   
-  :heavy_minus_sign: **Ignite Lab Event**(Rocketseat)- desenvolvido com React, TypeScript, HTML, Apollo, TailwindCSS, Graphql e GraphCMS -> <a href="http://plataforma-aulas-rocketseat.vercel.app/" target="_blank"><img src="https://www.flaticon.com/br/icone-gratis/quadrado-de-link-externo-com-uma-seta-na-diagonal-direita_25614" target="_blank"></a> 
+  :heavy_minus_sign: **Ignite Lab Event**(Rocketseat)- desenvolvido com React, TypeScript, HTML, Apollo, TailwindCSS, Graphql e GraphCMS -> [:file_folder:](http://plataforma-aulas-rocketseat.vercel.app/) 
 
-  :heavy_minus_sign: **Portal de Notícias-** desenvolvido com React, React Native, Firestore-Firebase -> [:airplane:](https://gabrielpossasb.github.io/Portal-Noticias/) <-
+  :heavy_minus_sign: **Portal de Notícias-** desenvolvido com React, React Native, Firestore-Firebase -> [:file_folder:](https://gabrielpossasb.github.io/Portal-Noticias/)
 
-  :heavy_minus_sign: **Calculadora-** desenvolvio com React, React Native -> [OPEN](https://gabrielpossasb.github.io/Calculadora/) <-
+  :heavy_minus_sign: **Calculadora-** desenvolvio com React, React Native -> [:file_folder:](https://gabrielpossasb.github.io/Calculadora/) 
 
-  :heavy_minus_sign: **Timer-** desenvolvio com React, React Native -> [OPEN](https://gabrielpossasb.github.io/Timer/) <- 
+  :heavy_minus_sign: **Timer-** desenvolvio com React, React Native -> [:file_folder:](https://gabrielpossasb.github.io/Timer/) 
  
-  :heavy_minus_sign: **Player de Musica-** desenvolvido com React, React Native -> [OPEN](https://gabrielpossasb.github.io/Player-Music/) <-  
+  :heavy_minus_sign: **Player de Musica-** desenvolvido com React, React Native -> [:file_folder:](https://gabrielpossasb.github.io/Player-Music/) 
 
-  :heavy_minus_sign: **Lista de Tarefas-** desenvolvio com React, React Native -> [OPEN](https://gabrielpossasb.github.io/Tarefas/) <- 
+  :heavy_minus_sign: **Lista de Tarefas-** desenvolvio com React, React Native -> [:file_folder:](https://gabrielpossasb.github.io/Tarefas/) 
 
-  :heavy_minus_sign: **Portfólio-** (Imcompleto) desenvolvido com React, React Navigation, React Native, Firestore-Firebase -> [OPEN](https://gabrielpossasb.github.io/Portifolio/) <- 
+  :heavy_minus_sign: **Portfólio-** (Imcompleto) desenvolvido com React, React Navigation, React Native, Firestore-Firebase -> [:file_folder:](https://gabrielpossasb.github.io/Portifolio/) 
 
 ##
    
