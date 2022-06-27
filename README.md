@@ -19,7 +19,7 @@
  ##
  <h3> :file_folder: &nbsp;Projetos: </h3>
   
-  **Portal de Notícias-** desenvolvido com React, React Native, Firestore-Firebase -> [:file_folder:](http://plataforma-aulas-rocketseat.vercel.app/) <-
+  **Ignite Lab Event**(Rocketseat)- desenvolvido com React, TypeScript, HTML, Apollo, TailwindCSS, Graphql e GraphCMS -> [:file_folder:](http://plataforma-aulas-rocketseat.vercel.app/) <-
 
   **Portal de Notícias-** desenvolvido com React, React Native, Firestore-Firebase -> [OPEN](https://gabrielpossasb.github.io/Portal-Noticias/) <-
 
