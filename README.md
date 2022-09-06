@@ -1,6 +1,10 @@
 
-  <h3>👋 &nbsp;Olá, me chamo Gabriel Possas, Dev. Front-End</h3>
-  Tenho 18 anos, sou de Campo Grande (MS), conclui o ensino médio em 2021 e tenho agora como objetivo seguir na área de progamção que é minha paixão, pretendo trabalhar com Desenvolvimento Front-End e futuramente com FullStack.
+  <h1>Gabriel Possas</h1>
+  <h3>Dev. Front-End</h3>
+  
+  ##
+  
+  Olá tenho 18 anos, sou de Campo Grande (MS), conclui o ensino médio em 2021 e tenho agora como objetivo seguir na área de progamção que é minha paixão, pretendo trabalhar com Desenvolvimento Front-End e futuramente com FullStack.
   
 ##
 
