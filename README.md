@@ -37,15 +37,13 @@
   
   :heavy_minus_sign: **Ignite Lab Event**(Rocketseat)- desenvolvido com React, TypeScript, HTML, Apollo, TailwindCSS, Graphql e GraphCMS -> [:file_folder:](http://plataforma-aulas-rocketseat.vercel.app/) 
 
-  :heavy_minus_sign: **Portal de Notícias-** desenvolvido com React, React Native, CSS, Firestore-Firebase -> [:file_folder:](https://gabrielpossasb.github.io/Portal-Noticias/)
+  :heavy_minus_sign: **worldTRIP** desenvolvido com React,  -> [:file_folder:](http://worldtrip-omega.vercel.app/)
 
-  :heavy_minus_sign: **Calculadora-** desenvolvio com React, React Native, CSS -> [:file_folder:](https://gabrielpossasb.github.io/Calculadora/) 
+  :heavy_minus_sign: **dt_Money** desenvolvio com React, React Native, CSS -> [:file_folder:](https://gabrielpossasb.github.io/Aplicacao-Balanco-de-Contas/) 
 
-  :heavy_minus_sign: **Timer-** desenvolvio com React, React Native, CSS -> [:file_folder:](https://gabrielpossasb.github.io/Timer/) 
+  :heavy_minus_sign: **dashGO* desenvolvio com React, React Native, CSS -> [:file_folder:](http://dash-go-ecru.vercel.app/) 
  
-  :heavy_minus_sign: **Player de Musica-** desenvolvido com React, React Native, CSS -> [:file_folder:](https://gabrielpossasb.github.io/Player-Music/) 
-
-  :heavy_minus_sign: **Lista de Tarefas-** desenvolvio com React, React Native, CSS -> [:file_folder:](https://gabrielpossasb.github.io/Tarefas/)  
+  :heavy_minus_sign: **Lista de compras** desenvolvido com React, React Native, CSS -> [:file_folder:](http://lista-nine.vercel.app/) 
 
 ##
    
