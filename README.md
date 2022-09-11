@@ -41,7 +41,7 @@
 
   :heavy_minus_sign: **dt_Money** desenvolvio com React, React Native, CSS -> [:file_folder:](https://gabrielpossasb.github.io/Aplicacao-Balanco-de-Contas/) 
 
-  :heavy_minus_sign: **dashGO* desenvolvio com React, React Native, CSS -> [:file_folder:](http://dash-go-ecru.vercel.app/) 
+  :heavy_minus_sign: **dashGO** desenvolvio com React, React Native, CSS -> [:file_folder:](http://dash-go-ecru.vercel.app/) 
  
   :heavy_minus_sign: **Lista de compras** desenvolvido com React, React Native, CSS -> [:file_folder:](http://lista-nine.vercel.app/) 
 
