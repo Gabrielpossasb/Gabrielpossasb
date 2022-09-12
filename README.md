@@ -1,12 +1,11 @@
 
-  <h1>Gabriel Possas</h1>
-  <h3>Dev. Front-End</h3>
+  # Gabriel Possas #
   
+  ### Dev. Front-End ###
+  
+  Olá tenho 18 anos, sou de Campo Grande (MS), conclui o ensino médio em 2021 e tenho agora como objetivo seguir na área de progamção que é minha paixão, pretendo      trabalhar com Desenvolvimento Front-End e futuramente com FullStack.
+ 
   ##
-  
-  Olá tenho 18 anos, sou de Campo Grande (MS), conclui o ensino médio em 2021 e tenho agora como objetivo seguir na área de progamção que é minha paixão, pretendo trabalhar com Desenvolvimento Front-End e futuramente com FullStack.
-  
-##
 
   <h3>:books: &nbsp;Estudos</h3>
    Atualmente estudo em platafomas como a Danki Code, com os cursos de front-end e dev. mobile, até o momento realizei algumas aplicações nativas mobile utilizando React.js e React Native, e agora estou aprimorando meus conhecimentos em desenvolvimento web utilizando React e aprendendo sobre Apis. E para isso estudo tambem pela Rocketseat pela qual desenvolvi aplicações mais completas aprendento a manipular dados utilizando bibliotecas como Miraje.Js, Apollo Client e recursos como GraphCMS utilizando tambem GraphQl.
@@ -37,13 +36,13 @@
   
   :heavy_minus_sign: **Ignite Lab Event**(Rocketseat)- desenvolvido com React, TypeScript, HTML, Apollo, TailwindCSS, Graphql e GraphCMS -> [:file_folder:](http://plataforma-aulas-rocketseat.vercel.app/) 
 
-  :heavy_minus_sign: **worldTRIP** desenvolvido com React,  -> [:file_folder:](http://worldtrip-omega.vercel.app/)
+  :heavy_minus_sign: **worldTRIP** desenvolvido com React, TailwindCSS, Next -> [:file_folder:](http://worldtrip-omega.vercel.app/)
 
-  :heavy_minus_sign: **dt_Money** desenvolvio com React, React Native, CSS -> [:file_folder:](https://gabrielpossasb.github.io/Aplicacao-Balanco-de-Contas/) 
+  :heavy_minus_sign: **dt_Money** desenvolvio com React, Miraje, ReactHookForm, SCSS -> [:file_folder:](https://gabrielpossasb.github.io/Aplicacao-Balanco-de-Contas/) 
 
-  :heavy_minus_sign: **dashGO** desenvolvio com React, React Native, CSS -> [:file_folder:](http://dash-go-ecru.vercel.app/) 
+  :heavy_minus_sign: **dashGO** desenvolvio em RESPONSIVO com React, ChackraUI, Next -> [:file_folder:](http://dash-go-ecru.vercel.app/) 
  
-  :heavy_minus_sign: **Lista de compras** desenvolvido com React, React Native, CSS -> [:file_folder:](http://lista-nine.vercel.app/) 
+  :heavy_minus_sign: **Lista de compras** desenvolvido com React, Next, TailwindCSS -> [:file_folder:](http://lista-nine.vercel.app/) 
 
 ##
    
