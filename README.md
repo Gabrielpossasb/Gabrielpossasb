@@ -1,21 +1,24 @@
+ 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpossasb&theme=dracula&hide_langs_below=1" />
+ 
 <div>
  
-   # Gabriel Possas #
-  
+  # Gabriel Possas #
   ### Dev. Front-End ###
+  ##### Olá tenho 18 anos, sou de Campo Grande (MS), conclui o ensino médio em 2021 e tenho agora como objetivo seguir na área de progamção que é minha paixão,   pretendo trabalhar com Desenvolvimento Front-End e futuramente com FullStack. #####
   
-  Olá tenho 18 anos, sou de Campo Grande (MS), conclui o ensino médio em 2021 e tenho agora como objetivo seguir na área de progamção que é minha paixão, pretendo      trabalhar com Desenvolvimento Front-End e futuramente com FullStack.
+</div>
+<br/>
+<br/>
   
- </div>
-  
-  
+##
  
-  ##
+<h3>:books: &nbsp;Estudos</h3>
 
-  <h3>:books: &nbsp;Estudos</h3>
    Atualmente estudo em platafomas como a Danki Code, com os cursos de front-end e dev. mobile, até o momento realizei algumas aplicações nativas mobile utilizando React.js e React Native, e agora estou aprimorando meus conhecimentos em desenvolvimento web utilizando React e aprendendo sobre Apis. E para isso estudo tambem pela Rocketseat pela qual desenvolvi aplicações mais completas aprendento a manipular dados utilizando bibliotecas como Miraje.Js, Apollo Client e recursos como GraphCMS utilizando tambem GraphQl.
 
 ##
+
 <h3> 🛠 &nbsp;Minhas Skills </h3>
 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
