@@ -15,7 +15,7 @@
  
 <h3>:books: &nbsp;Estudos</h3>
 
-   Atualmente estudo em platafomas como a Danki Code, com os cursos de front-end e dev. mobile, até o momento realizei algumas aplicações nativas mobile utilizando React.js e React Native, e agora estou aprimorando meus conhecimentos em desenvolvimento web utilizando React e aprendendo sobre Apis. E para isso estudo tambem pela Rocketseat pela qual desenvolvi aplicações mais completas aprendento a manipular dados utilizando bibliotecas como Miraje.Js, Apollo Client e recursos como GraphCMS utilizando tambem GraphQl.
+   Atualmente estudo em platafomas como Rocketseat e a Danki Code, com os cursos de front-end e dev. mobile, até o momento realizei algumas aplicações nativas mobile utilizando React.js e React Native, e agora estou aprimorando meus conhecimentos em desenvolvimento web utilizando React e aprendendo sobre Apis. E para isso estudo tambem pela Rocketseat pela qual desenvolvi aplicações mais completas aprendento a manipular dados utilizando bibliotecas como Miraje.Js, Apollo Client e recursos como GraphCMS utilizando tambem GraphQl.
 
 ##
 
