@@ -47,9 +47,10 @@
 
   :heavy_minus_sign: **dt_Money** desenvolvio com React, Miraje, ReactHookForm, SCSS -> [:file_folder:](https://gabrielpossasb.github.io/Aplicacao-Balanco-de-Contas/) 
 
-  :heavy_minus_sign: **dashGO** desenvolvio em RESPONSIVO com React, ChackraUI, Next -> [:file_folder:](http://dash-go-ecru.vercel.app/) 
+  :heavy_minus_sign: **Search Bar** desenvolvio com React, Create-React-App -> [:file_folder:](https://gabrielpossasb.github.io/Auto-Complete/) 
  
   :heavy_minus_sign: **Lista de compras** desenvolvido com React, Next, TailwindCSS -> [:file_folder:](http://lista-nine.vercel.app/) 
+
 
 ##
    
