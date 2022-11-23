@@ -39,6 +39,7 @@
   ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
  
  ##
+ <!--
  <h3> :rocket: &nbsp;Projetos: </h3>
   
   :heavy_minus_sign: **Ignite Lab Event**(Rocketseat)- desenvolvido com React, TypeScript, HTML, Apollo, TailwindCSS, Graphql e GraphCMS -> [:file_folder:](http://plataforma-aulas-rocketseat.vercel.app/) 
@@ -51,8 +52,9 @@
  
   :heavy_minus_sign: **Lista de compras** desenvolvido com React, Next, TailwindCSS -> [:file_folder:](http://lista-nine.vercel.app/) 
 
+ -->
 
-##
+<h3> :telephone_receiver: &nbsp;Contact</h3>
    
 <a href = "mailto:gabrielpossasb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-borges-b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
