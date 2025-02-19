@@ -41,4 +41,5 @@ Além disso, estou desenvolvendo uma plataforma mobile de treinamento para colab
 
 📩 **E-mail:** [gabrielpossasb@gmail.com](mailto:gabrielpossasb@gmail.com)  
 💼 **LinkedIn:** [Gabriel Possas](https://www.linkedin.com/in/gabriel-possas/)  
-📱 **WhatsApp:** [+67 99935-9933](https://wa.me/5567999359933)  
+📁 **Portifólio:** [Portifólio Gabriel Possas](https://www.linkedin.com/in/gabriel-possas/)  
+ 📱  **WhatsApp:** [+67 99935-9933](https://wa.me/5567999359933)  
