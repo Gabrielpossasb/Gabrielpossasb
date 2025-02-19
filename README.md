@@ -1,10 +1,9 @@
 # 👋 Olá, eu sou Gabriel Possas!  
 ### 🚀 Desenvolvedor Front-End & Mobile  
 
-Tenho grande interesse na area de tecnologia e inovação, tenho 20 anos e sou de Campo Grande (MS). Desde que concluí o ensino médio em 2021, venho me aprofundando no universo do desenvolvimento Front-End e estou focado no **desenvolvimento Mobile**.  
+👋 Olá, me chamo Gabriel Abraão Possas Borges sou de Campo Grande - MS, tenho 20 anos, concluí o ensino médio na Escola do SESI/SENAI cursando o ensino médio técnico, com certifcado em Técnico em Redes. Venho me aprofundando no universo do desenvolvimento Front-End e estou focado no desenvolvimento Mobile.
 
-Atualmente, estou aprimorando minhas habilidades em **React Native e APIs**, desenvolvendo aplicações dinâmicas e intuitivas para dispositivos móveis.  
-
+📚 Ingressei minha graduação em 2024 na Universidade Federeal de Mato Grosso do Sul (UFMS), no curso Sistemas de Informação. Atualmente, estou aprimorando minhas habilidades em React Native e APIs, desenvolvendo aplicações dinâmicas e intuitivas para dispositivos móveis.
 
 
 ## 📚 O que estou estudando
