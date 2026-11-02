@@ -12,17 +12,54 @@ de interfaces que precisam rodar bem em dispositivos de baixo desempenho.
 
 ## Projetos
 
+### [JARVIS](https://github.com/Gabrielpossasb/JARVIS)
+
+<img src="assets/jarvis.webp" width="700" alt="Interface do JARVIS: chat com barra lateral de tarefas, lançamentos, financeiro e faculdade">
+
+Assistente pessoal com IA que recebe texto, áudio, imagem ou PDF e devolve dado
+organizado — tarefas, lançamentos financeiros, estoque e rotina acadêmica.
+Node.js, PostgreSQL.
+
+---
+
+### [Motor de Atendimento](https://github.com/Gabrielpossasb/MOTOR-ATENDIMENTO)
+
+<img src="assets/motor-atendimento.webp" width="700" alt="Painel do motor de atendimento com taxa de resolução, custo por resposta e fila de handoffs">
+
+Atendimento automatizado por WhatsApp para comércio local, com painel de operação:
+taxa de resolução, custo por resposta, lacunas na base de conhecimento e fila de
+*handoff* para quando a conversa sai do script. Node.js com integração a modelo
+de linguagem.
+
+Medir custo por resposta e taxa de resolução foi uma decisão de projeto: sem isso
+não dá para saber se o bot está ajudando ou só empurrando trabalho para o humano.
+
+---
+
+### [Compilador de Vídeo](https://github.com/Gabrielpossasb/COMPILADOR-VIDEO)
+
+Transforma vídeo longo em resumo estruturado: busca a legenda, divide em blocos,
+resume cada bloco com um modelo leve e consolida com um modelo mais forte —
+estratégia que reduz custo de token sem perder o contexto do todo. Node.js.
+
+---
+
 ### [Polpa Santa Helena](https://github.com/Gabrielpossasb/Polpa_Santa_Helena) · [ver no ar](https://polpasantahelena.com.br)
+
+<img src="assets/polpa-santa-helena.webp" width="700" alt="Landing page da Polpa Santa Helena com catálogo de polpas e botão de pedido pelo WhatsApp">
+
 Catálogo online de uma distribuidora de polpas de fruta, com pedido direto pelo
 WhatsApp. React 19, TypeScript, Tailwind 4, Vite. Inclui pipeline próprio de
 processamento de imagens em Node com `sharp`.
 
-### [JARVIS](https://github.com/Gabrielpossasb/JARVIS)
-Assistente pessoal com IA que recebe texto, áudio ou foto pelo WhatsApp e devolve
-dado organizado — finanças, tarefas e rotina acadêmica. Node.js, PostgreSQL.
+---
 
-### [Portfólio](https://portfolio-gabrielpossasb.vercel.app)
-Projetos, trajetória e competências técnicas.
+### [Portfólio](https://github.com/Gabrielpossasb/Portfolio) · [ver no ar](https://portfolio-gabrielpossasb.vercel.app)
+
+<img src="assets/portfolio.webp" width="700" alt="Home do portfólio pessoal em tema escuro">
+
+Projetos, trajetória e competências técnicas. React, TypeScript, Tailwind,
+formulário de contato sem backend via EmailJS.
 
 ---
 
