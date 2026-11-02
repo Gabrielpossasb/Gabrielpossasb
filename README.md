@@ -5,8 +5,8 @@
 Construo aplicações web e mobile em React, React Native e TypeScript. Estudante de
 Sistemas de Informação na UFMS, com formação técnica em Redes pelo SENAI.
 
-Atualmente trabalhando com integração de IA em aplicações reais e desenvolvimento
-de interfaces que precisam rodar bem em dispositivos de baixo desempenho.
+Trabalhando com IA e agentes aplicados ao desenvolvimento, do assistente pessoal
+ao atendimento automatizado. Aprofundando Python e arquitetura de agentes.
 
 ---
 
