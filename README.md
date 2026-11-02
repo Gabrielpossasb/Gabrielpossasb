@@ -49,8 +49,7 @@ estratégia que reduz custo de token sem perder o contexto do todo. Node.js.
 <img src="assets/previw_page_home_psh.png" width="400" alt="Landing page da Polpa Santa Helena com catálogo de polpas e botão de pedido pelo WhatsApp">
 
 Catálogo online de uma distribuidora de polpas de fruta, com pedido direto pelo
-WhatsApp. React 19, TypeScript, Tailwind 4, Vite. Inclui pipeline próprio de
-processamento de imagens em Node com `sharp`.
+WhatsApp. React, TypeScript, Tailwind, Vite.
 
 ---
 
