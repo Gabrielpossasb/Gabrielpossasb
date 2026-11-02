@@ -14,7 +14,7 @@ de interfaces que precisam rodar bem em dispositivos de baixo desempenho.
 
 ### [JARVIS](https://github.com/Gabrielpossasb/JARVIS)
 
-<img src="assets/jarvis.webp" width="700" alt="Interface do JARVIS: chat com barra lateral de tarefas, lançamentos, financeiro e faculdade">
+<img src="assets/JARVIS_PREVIEW.png" width="700" alt="Interface do JARVIS: chat com barra lateral de tarefas, lançamentos, financeiro e faculdade">
 
 Assistente pessoal com IA que recebe texto, áudio, imagem ou PDF e devolve dado
 organizado — tarefas, lançamentos financeiros, estoque e rotina acadêmica.
@@ -24,7 +24,7 @@ Node.js, PostgreSQL.
 
 ### [Motor de Atendimento](https://github.com/Gabrielpossasb/MOTOR-ATENDIMENTO)
 
-<img src="assets/motor-atendimento.webp" width="700" alt="Painel do motor de atendimento com taxa de resolução, custo por resposta e fila de handoffs">
+<img src="assets/painel_motor_atendimento.png" width="700" alt="Painel do motor de atendimento com taxa de resolução, custo por resposta e fila de handoffs">
 
 Atendimento automatizado por WhatsApp para comércio local, com painel de operação:
 taxa de resolução, custo por resposta, lacunas na base de conhecimento e fila de
@@ -46,7 +46,7 @@ estratégia que reduz custo de token sem perder o contexto do todo. Node.js.
 
 ### [Polpa Santa Helena](https://github.com/Gabrielpossasb/Polpa_Santa_Helena) · [ver no ar](https://polpasantahelena.com.br)
 
-<img src="assets/polpa-santa-helena.webp" width="700" alt="Landing page da Polpa Santa Helena com catálogo de polpas e botão de pedido pelo WhatsApp">
+<img src="assets/previw_page_home_psh.png" width="700" alt="Landing page da Polpa Santa Helena com catálogo de polpas e botão de pedido pelo WhatsApp">
 
 Catálogo online de uma distribuidora de polpas de fruta, com pedido direto pelo
 WhatsApp. React 19, TypeScript, Tailwind 4, Vite. Inclui pipeline próprio de
@@ -56,7 +56,7 @@ processamento de imagens em Node com `sharp`.
 
 ### [Portfólio](https://github.com/Gabrielpossasb/Portfolio) · [ver no ar](https://portfolio-gabrielpossasb.vercel.app)
 
-<img src="assets/portfolio.webp" width="700" alt="Home do portfólio pessoal em tema escuro">
+<img src="assets/portifolio.png" width="700" alt="Home do portfólio pessoal em tema escuro">
 
 Projetos, trajetória e competências técnicas. React, TypeScript, Tailwind,
 formulário de contato sem backend via EmailJS.
