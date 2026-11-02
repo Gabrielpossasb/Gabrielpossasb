@@ -1,6 +1,6 @@
 # Gabriel Possas
 
-**Desenvolvedor Front-End & Mobile** — Campo Grande/MS
+**Desenvolvedor Front-End & Mobile**, Campo Grande/MS
 
 Construo aplicações web e mobile em React, React Native e TypeScript. Estudante de
 Sistemas de Informação na UFMS, com formação técnica em Redes pelo SENAI.
@@ -17,7 +17,7 @@ ao atendimento automatizado. Aprofundando Python e arquitetura de agentes.
 <img src="assets/JARVIS_PREVIEW.png" width="400" alt="Interface do JARVIS: chat com barra lateral de tarefas, lançamentos, financeiro e faculdade">
 
 Assistente pessoal com IA que recebe texto, áudio, imagem ou PDF e devolve dado
-organizado — tarefas, lançamentos financeiros, estoque e rotina acadêmica.
+organizado, tarefas, lançamentos financeiros, estoque e rotina acadêmica.
 Node.js, PostgreSQL.
 
 ---
@@ -39,7 +39,7 @@ não dá para saber se o bot está ajudando ou só empurrando trabalho para o hu
 ### [Compilador de Vídeo](https://github.com/Gabrielpossasb/COMPILADOR-VIDEO)
 
 Transforma vídeo longo em resumo estruturado: busca a legenda, divide em blocos,
-resume cada bloco com um modelo leve e consolida com um modelo mais forte —
+resume cada bloco com um modelo leve e consolida com um modelo mais forte,
 estratégia que reduz custo de token sem perder o contexto do todo. Node.js.
 
 ---
